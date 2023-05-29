@@ -216,7 +216,9 @@ body{
     box-shadow: none;
     position: absolute;
   }
-  
+  div.avatar{
+  margin:auto;
+}
   .artistaInfo, .canzoneInfo{
     display: none;
   }
